@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 
+st.image("IMG_1593.jpeg")
 # =========================
 # CẤU HÌNH APP
 # =========================
